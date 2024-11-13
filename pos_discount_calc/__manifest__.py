@@ -7,7 +7,7 @@
     'description': 'POS discount calculator',
     'category': 'Point of Sale',
     'author': 'Visionee',
-    'version': '16.0.1.0',
+    'version': '17.0.1.0',
     'website': 'https://visionee.net',
     'depends': [
         'point_of_sale',
@@ -16,7 +16,7 @@
         'static/description/banner.gif',
     ],
     'assets': {
-        'point_of_sale.assets': [
+        'point_of_sale.assets_prod': [
             'pos_discount_calc/static/src/**/*',
         ],
     },
