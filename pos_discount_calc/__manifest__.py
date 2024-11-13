@@ -6,9 +6,14 @@
     'summary': 'POS discount calculator',
     'description': 'POS discount calculator',
     'category': 'Point of Sale',
-    'author': 'Alex Esteves',
+    'author': 'Visionee',
+    'version': '16.0.1.0',
+    'website': 'https://visionee.net',
     'depends': [
-        'pos_ext',
+        'point_of_sale',
+    ],
+    'images': [
+        'static/description/banner.png',
     ],
     'assets': {
         'point_of_sale.assets': [
@@ -18,7 +23,9 @@
     'data': [
         'views/res_config_settings_views.xml',
     ],
-    'license': 'AGPL-3',
+    'license': 'OPL-1',
+    'price': 20,
+    'currency': "EUR",
     'installable': True,
     'auto_install': False,
 }
