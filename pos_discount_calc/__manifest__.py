@@ -4,7 +4,8 @@
 {
     'name': 'POS discount calculator',
     'summary': 'POS discount calculator',
-    'description': 'POS discount calculator',
+    'description': 'POS discount calculator. (POS discount | point of sale discount | discount calculate |'
+                   ' discount calculation)',
     'category': 'Point of Sale',
     'author': 'Visionee',
     'version': '16.0.1.0',
