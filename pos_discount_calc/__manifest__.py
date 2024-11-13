@@ -4,11 +4,10 @@
 {
     'name': 'POS discount calculator',
     'summary': 'POS discount calculator',
-    'description': 'POS discount calculator. (POS discount | point of sale discount | discount calculate |'
-                   ' discount calculation)',
+    'description': 'POS discount calculator. (POS discount | point of sale discount | discount calculate | discount calculation)',
     'category': 'Point of Sale',
     'author': 'Visionee',
-    'version': '17.0.1.0',
+    'version': '18.0.1.0',
     'website': 'https://visionee.net',
     'depends': [
         'point_of_sale',
