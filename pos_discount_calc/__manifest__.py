@@ -3,8 +3,7 @@
 
 {
     'name': 'POS discount calculator',
-    'description': 'POS discount calculator. (POS discount | point of sale discount | discount calculate |'
-                   ' discount calculation)',
+    'summary': 'POS discount calculator. (POS discount | point of sale discount | discount calculate | discount calculation)',
     'description': 'POS discount calculator.',
     'category': 'Point of Sale',
     'author': 'Visionee',
