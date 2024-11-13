@@ -13,7 +13,7 @@
         'point_of_sale',
     ],
     'images': [
-        'static/description/banner.png',
+        'static/description/banner.gif',
     ],
     'assets': {
         'point_of_sale.assets': [
